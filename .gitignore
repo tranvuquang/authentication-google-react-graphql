@@ -1,0 +1,7 @@
+server/node_modules
+server/dist
+server/src/credentials.json
+server/.env
+client/node_modules
+socket/node_modules
+socket/dist

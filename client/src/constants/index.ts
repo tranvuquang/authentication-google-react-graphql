@@ -1,0 +1,1 @@
+export const socketURL:string=import.meta.env.VITE_SOCKET_URL as string;
